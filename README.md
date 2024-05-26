@@ -10,7 +10,9 @@ Example questions:
 * What is direct air capture?
 * How does Verified Carbon ensure effective carbon storage?
 * What are the environmental benefits of direct air capture?
-Data Collection: Gather relevant information, including company details, direct air capture processes, and visual aids that can be used to generate images.
+
+
+## Data Collection: Gather relevant information, including company details, direct air capture processes, and visual aids that can be used to generate images.
 Sources include company documents, scientific articles, and existing visual content on carbon capture.
 Develop Project Proposal:
 
